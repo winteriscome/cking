@@ -28,3 +28,7 @@ main(int argc,char *argv[]){
 }
 
 //功能1
+
+int a(){
+       printf("333");
+}
