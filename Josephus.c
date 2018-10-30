@@ -3,6 +3,7 @@ typedef struct node* link;
 struct node {int item;link next;};
 
 //git test
+//git rebase
 main(int argc,char *argv[]){
    int i,N=atoi(argv[1]), M =atoi(argv[2]);
 
