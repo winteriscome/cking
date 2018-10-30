@@ -37,3 +37,7 @@ int a(){
 int dev(){
        printf("333");
 }
+
+int dev2(){
+       printf("333");
+}
