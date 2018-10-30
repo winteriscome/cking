@@ -30,12 +30,11 @@ main(int argc,char *argv[]){
 //日志1
 //日志2
 
+
 //功能1
 
 int a(){
        printf("333");
 }
-
-
 
 //日志3
