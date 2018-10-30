@@ -26,3 +26,5 @@ main(int argc,char *argv[]){
 
    printf("%d\n",x->item);
 }
+
+//日志1
