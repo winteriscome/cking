@@ -32,3 +32,8 @@ main(int argc,char *argv[]){
 int a(){
        printf("333");
 }
+
+
+int dev(){
+       printf("333");
+}
