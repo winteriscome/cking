@@ -33,6 +33,9 @@ int a(){
        printf("333");
 }
 
+int req(){
+       printf("333");
+}
 
 int dev(){
        printf("333");
