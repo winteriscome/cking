@@ -28,6 +28,7 @@ main(int argc,char *argv[]){
 }
 
 
+
 //功能1
 
 int a(){
@@ -40,4 +41,5 @@ int dev(){
 }
 
 //日志1
+//日志2
 
