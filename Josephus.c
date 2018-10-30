@@ -27,6 +27,7 @@ main(int argc,char *argv[]){
    printf("%d\n",x->item);
 }
 
+
 //功能1
 
 int a(){
@@ -37,3 +38,6 @@ int a(){
 int dev(){
        printf("333");
 }
+
+//日志1
+
